@@ -3,10 +3,12 @@ Name: *Olumba Patrick.*
 
 ## Projects
 
-| Project name | Description |
+| Project 1 | Description |
 | ------------ | ----------- |
-|*Simple single line calculator*|
-		*Lessons:*
+|*Simple single line calculator*| *Running something like 2+2,... upon enter, you get the addition of both numbers. Unlike the bare basic where you have to get for each of the numbers entered. For example: for 2+2 ( 2 will be taken after a new line, then the plus(+) sign and then the last 2). In total we will be having 3 new lines. This can be boring sometimes for the user to enter the aurguments individually. So I created this to make it easier for any user... All a user need to do is input figures and operator and the code will do the rest. I have explained everything I did in the code using comment. Enjoy ):*|
+| Lessons for project 1|
+| ------------ |
+		Below are key features used. By the time you finish writting and studying this code yourself, you would have learnt the following:
 			1. Lists in python
 				(a) pop() submethod of list
 				
