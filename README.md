@@ -10,25 +10,25 @@ Name: *Olumba Patrick.*
 **Lessons for project 1**
 
 		**Below are key features used. By the time you finish writting and studying this code yourself, you would have learnt the following:**
-			**1. Lists in python**
+			1. Lists in python
 				(a) pop() submethod of list
 				
-			**2. Strings**
+			2. Strings
 				(a) String slicing
 				(b) Length of String
 				
-			**3. Functions**
+			3. Functions
 				(a) Function with parameters
 				(b) Function without parameters
 				
-			**4. Control Flow in Python**
+			4. Control Flow in Python
 				(a) if statement
 				(b) elif statement
 				
-			**5. Type Casting in python**
+			5. Type Casting in python
 				(a) int
 			
-			**6. Loop**
+			6. Loop
 				(a) For Loop
 
-			**7. Print method in Python**
+			7. Print method in Python
