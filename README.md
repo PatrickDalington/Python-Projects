@@ -1,5 +1,10 @@
 ## Author's Details
 Name: *Olumba Patrick.*
+Email: *patrickdalington1@gmail.com"
+
+## Contribution
+Feel free to contribute to this project.
+
 
 ## Projects
 
